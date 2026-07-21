@@ -1,4 +1,4 @@
-Moglix Online Shortlisting Assignment
+Moglix Assignment
 
 Brute Force Time Complexity: O(n³) Space Complexity: O(1)
 
